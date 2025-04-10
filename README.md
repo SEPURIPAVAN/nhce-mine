@@ -1,1 +1,0 @@
-"# nhce-mine" 
